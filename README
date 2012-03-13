@@ -1,0 +1,3 @@
+this repo contains some sample code. sample.py contains some of the functions including main function to test them.
+state.py and missionaries_and_cannibals.py contains a solution for traditional AI problem of missionaries and cannibals.
+
